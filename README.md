@@ -10,4 +10,4 @@
 ## 查看方式，用浏览器打开 index.html 文件
 
 ## 下面是效果图
-![calander](./public/calender.png)
+![calander](./public/calendar.png)
