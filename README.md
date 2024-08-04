@@ -6,3 +6,5 @@
 - HTML
 - CSS
 - JavaScript
+
+## 查看方式，用浏览器打开 index.html 文件
