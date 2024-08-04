@@ -1,4 +1,4 @@
-# calender-for-free-exam
+# calendar-for-free-exam
 
 这是一个日历的样式，想要尝试免试题的同学可以尝试一下 🚀
 
@@ -10,4 +10,4 @@
 ## 查看方式，用浏览器打开 index.html 文件
 
 ## 下面是效果图
-![calender](./public/calender.png)
+![calander](./public/calender.png)
